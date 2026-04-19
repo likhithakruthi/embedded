@@ -1,0 +1,16 @@
+input:
+capacity = 2000       
+I_active = 100        
+I_sleep = 5           
+T_active = 2          
+T_sleep = 8
+
+given manuall input
+
+
+
+
+output:
+Duty Cycle: 0.2
+Average Current (mA): 24.0
+Battery Life (hours): 83.33333333333333

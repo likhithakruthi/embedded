@@ -1,0 +1,12 @@
+input taken from the user dynamically
+
+Enter Battery Capacity (mAh): 2000
+Enter Active Current (mA): 100
+Enter Sleep Current (mA): 5
+Enter Active Time (seconds): 2
+Enter Sleep Time (seconds): 8
+
+--- Results ---
+Duty Cycle: 0.200 (20.00%)
+Average Current: 24.00 mA
+Estimated Battery Life: 83.33 hours
